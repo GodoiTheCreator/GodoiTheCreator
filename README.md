@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eduardo Godoi
 - 👀 I’m interested in music, code, games, ocean and animals 
-- 🌱 I’m currently learning JavaScript and Python
+- 🌱 I’m currently learning JavaScript, Python and C#
 - 📫 How to reach me eduardogodoisilveira@gmail.com
 
 <!---
