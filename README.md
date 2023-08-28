@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Eduardo Godoi
-- 👀 I’m interested in music, code, games, ocean and animals 
-- 🌱 I’m currently learning JavaScript, CSS, HTML and React.js
+- 🌱 I’m currently learning JavaScript, CSS, HTML and React.js for Frontend and Java and Spring Boot for Backend.
 - 📫 How to reach me: eduardogodoisilveira@gmail.com
 
 <!---
