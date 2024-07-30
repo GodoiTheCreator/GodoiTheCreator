@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Eduardo Godoi
-- 🌱 I’m currently learning JavaScript, CSS, HTML and React.js for Frontend and Java and Spring Boot for Backend.
+- 🌱 I’m currently studying mainly Java and Spring Boot for Backend and some JavaScript, CSS, HTML and React.js for Frontend.
 - 📫 How to reach me: eduardogodoisilveira@gmail.com
 
 <!---
