@@ -1,8 +1,37 @@
-- 👋 Hi, I’m Eduardo Godoi
-- 🌱 I’m currently studying mainly Java and Spring Boot for Backend and some JavaScript, CSS, HTML and React.js for Frontend.
-- 📫 How to reach me: eduardogodoisilveira@gmail.com
+# 👨‍💻 Olá, me chamo Eduardo
 
-<!---
-GodoiTheCreator/GodoiTheCreator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Estudante de Ciência da Computação na [Unisinos](https://www.unisinos.br/)  
+💼 Software Developer na **SAP**, **Datasphere Data Integration**  
+📍 Rio Grande do Sul, Brasil  
+📧 eduardogodoisilveira@gmail.com
+
+---
+
+## 🚀 Tecnologias e Ferramentas
+
+- 🛠 **Java**, **Spring Boot**
+- 🐍 **Python**
+- 🐘 **PostgreSQL**
+- ☁️ APIs REST, integração de dados
+- 🔍 Clean Code, versionamento com Git
+
+---
+
+## 📈 Projetos & Contribuições
+
+Aqui no meu GitHub você encontrará:
+- 🧪 Experimentos com novas tecnologias
+- 📦 APIs backend pessoais
+- 🗃 Estudos e provas de conceito
+
+---
+
+## 🤝 Vamos conversar?
+
+Se quiser trocar uma ideia:
+
+📫 **eduardogodoisilveira@gmail.com**  
+📎 [LinkedIn](https://www.linkedin.com/in/eduardo-godoi)
+
+---
+
